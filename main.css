@@ -1,0 +1,54 @@
+
+
+h1 
+{
+    color: #f1c03d;
+    font-family: 'Raleway', sans-serif;
+
+}
+li {
+    list-style: circle;
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  .list {
+    list-style: square;
+  }
+  
+  #msg {
+    font-family:'Raleway', sans-serif;
+  }
+
+  .color-theme {
+    color: #ffffff;
+    background:#00204b;
+    font-family: 'Raleway', sans-serif;
+  }
+
+  /*NAVIGATION BAR*/ 
+  
+ /* Add a black background color to the top navigation */
+.topnav {
+    background-color: #00204b;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    color: #f1c03d;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    color: rgb(255, 255, 255);
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    color: #ffffff;
+  }
